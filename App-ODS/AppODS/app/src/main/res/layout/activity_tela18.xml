@@ -7,50 +7,54 @@
     android:background="#8A07A9DA">
 
     <Button
-        android:id="@+id/btnvoltar4"
+        android:id="@+id/btnvoltar17"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF0F17"
-        android:text="Voltar"
+        android:text="@string/voltar"
         android:textAllCaps="true"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.888"
+        tools:ignore="TextContrastCheck" />
 
     <ImageView
-        android:id="@+id/imageView21"
+        android:id="@+id/imageView25"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:contentDescription="TODO"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.204"
-        app:srcCompat="@drawable/ods4" />
+        app:layout_constraintVertical_bias="0.18"
+        app:srcCompat="@drawable/ods17" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/textView17"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ODS 4 - EDUCAÇÃO DE QUALIDADE"
+        android:text="ODS 17 - PARCEIRIAS E MEIOS DE IMPLEMENTAÇÃO"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.085" />
+        app:layout_constraintVertical_bias="0.08"
+        tools:ignore="TextContrastCheck" />
 
     <TextView
-        android:id="@+id/textView10"
+        android:id="@+id/textView18"
         android:layout_width="250dp"
-        android:layout_height="100dp"
-        android:text="Até 2030, garantir que todas as meninas e meninos completem o ensino primário e secundário gratuito, equitativo e de qualidade, que conduza a resultados de aprendizagem relevantes e eficazes."
+        android:layout_height="150dp"
+        android:text="Fortalecer a mobilização de recursos internos, inclusive por meio do apoio internacional aos países em desenvolvimento, para melhorar a capacidade nacional para arrecadação de impostos e outras receitas."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextContrastCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>

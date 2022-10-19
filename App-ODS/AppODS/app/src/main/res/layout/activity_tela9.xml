@@ -7,7 +7,7 @@
     android:background="#8A07A9DA">
 
     <Button
-        android:id="@+id/btnvoltar8"
+        android:id="@+id/btnvoltar17"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF0F17"

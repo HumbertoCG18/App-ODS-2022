@@ -25,7 +25,8 @@
         app:layout_constraintHorizontal_bias="0.435"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView8"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela6"
@@ -43,7 +44,8 @@
         app:layout_constraintHorizontal_bias="0.787"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView9"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela7"
@@ -61,7 +63,8 @@
         app:layout_constraintHorizontal_bias="0.889"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.252" />
+        app:layout_constraintVertical_bias="0.252"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela8"
@@ -79,7 +82,8 @@
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.252" />
+        app:layout_constraintVertical_bias="0.252"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela9"
@@ -97,7 +101,8 @@
         app:layout_constraintHorizontal_bias="0.419"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.938" />
+        app:layout_constraintVertical_bias="0.938"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela10"
@@ -115,7 +120,8 @@
         app:layout_constraintHorizontal_bias="0.787"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView13"
-        app:layout_constraintVertical_bias="0.004" />
+        app:layout_constraintVertical_bias="0.004"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela11"
@@ -133,7 +139,8 @@
         app:layout_constraintHorizontal_bias="0.879"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView14"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela12"
@@ -170,7 +177,8 @@
         app:layout_constraintHorizontal_bias="0.79"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.057" />
+        app:layout_constraintVertical_bias="0.057"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela15"
@@ -225,7 +233,8 @@
         app:layout_constraintHorizontal_bias="0.081"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView18"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela13"
@@ -243,7 +252,8 @@
         app:layout_constraintHorizontal_bias="0.433"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2"
-        app:layout_constraintVertical_bias="0.057" />
+        app:layout_constraintVertical_bias="0.057"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela3"
@@ -261,7 +271,8 @@
         app:layout_constraintHorizontal_bias="0.889"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela4"
@@ -279,7 +290,8 @@
         app:layout_constraintHorizontal_bias="0.965"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <ImageView
         android:id="@+id/imageView13"
@@ -425,7 +437,8 @@
         app:layout_constraintHorizontal_bias="0.953"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView17"
-        app:layout_constraintVertical_bias="0.057" />
+        app:layout_constraintVertical_bias="0.057"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela2"
@@ -443,7 +456,8 @@
         app:layout_constraintHorizontal_bias="0.773"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -570,13 +584,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.951"
         tools:ignore="TouchTargetSizeCheck" />
-
-    <androidx.gridlayout.widget.GridLayout
-        android:layout_width="14dp"
-        android:layout_height="126dp"
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="165dp">
-
-    </androidx.gridlayout.widget.GridLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

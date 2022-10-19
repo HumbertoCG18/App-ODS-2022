@@ -14,35 +14,44 @@
         android:text="Voltar"
         android:textAllCaps="true"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="160dp"
-        tools:layout_editor_absoluteY="589dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView14"
+        app:layout_constraintVertical_bias="0.495" />
 
     <TextView
         android:id="@+id/textView13"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="ODS 6- ÁGUA POTAVEL E SANEAMENTO"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.509"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="73dp" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.064" />
 
     <ImageView
         android:id="@+id/imageView23"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/ods6"
-        tools:layout_editor_absoluteY="105dp" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.156"
+        app:srcCompat="@drawable/ods6" />
 
     <TextView
         android:id="@+id/textView14"
         android:layout_width="250dp"
         android:layout_height="100dp"
+        android:layout_marginTop="280dp"
         android:text="Até 2030, alcançar o acesso universal e equitativo a água potável e segura para todos."
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="270dp" />
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
