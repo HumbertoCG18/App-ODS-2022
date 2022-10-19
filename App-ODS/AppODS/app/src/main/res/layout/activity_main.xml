@@ -151,7 +151,8 @@
         app:layout_constraintHorizontal_bias="0.953"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView16"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela14"
@@ -174,7 +175,7 @@
     <Button
         android:id="@+id/btntela15"
         android:layout_width="68dp"
-        android:layout_height="34dp"
+        android:layout_height="48dp"
         android:autoText="false"
         android:backgroundTint="#4CAF50"
         android:clickable="true"
@@ -205,7 +206,8 @@
         app:layout_constraintHorizontal_bias="0.451"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/btntela17"
@@ -566,7 +568,8 @@
         app:layout_constraintHorizontal_bias="0.909"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.951" />
+        app:layout_constraintVertical_bias="0.951"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <androidx.gridlayout.widget.GridLayout
         android:layout_width="14dp"
