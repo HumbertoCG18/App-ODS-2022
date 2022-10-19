@@ -48,10 +48,11 @@
         android:id="@+id/textView14"
         android:layout_width="250dp"
         android:layout_height="100dp"
-        android:layout_marginTop="280dp"
         android:text="Até 2030, alcançar o acesso universal e equitativo a água potável e segura para todos."
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.446" />
 </androidx.constraintlayout.widget.ConstraintLayout>
