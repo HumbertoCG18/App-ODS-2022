@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#8A07A9DA"
-    tools:context=".Tela2">
+    tools:context=".Tela2Activity">
 
     <Button
         android:id="@+id/btnvoltar"
